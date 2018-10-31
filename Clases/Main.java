@@ -11,5 +11,7 @@ public class Main
 
 		System.out.println("Desde Segundo GIT");
 		System.out.println("Desde Segundo GIT pero cerrando la terminal");
+
+        System.out.println("Editado en IntelliJ");
 	}
 }
