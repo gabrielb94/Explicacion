@@ -5,5 +5,8 @@ public class Main
 		System.out.println("Para GIT");
 		System.out.println("Para GIT");
 		System.out.println("Para GIT");
+
+		String a = "hola";
+		int b = 5;
 	}
 }
