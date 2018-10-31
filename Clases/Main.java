@@ -10,5 +10,6 @@ public class Main
 		int b = 5;
 
 		System.out.println("Desde Segundo GIT");
+		System.out.println("Desde Segundo GIT per cerrando la terminal");
 	}
 }
